@@ -121,4 +121,44 @@ export const gallery = [
     width: 4,
     height: 3,
   },
+
+  {
+    src: "https://res.cloudinary.com/dnrlpjsvu/image/upload/f_auto,q_auto/l4popytuguanuzgf0mcm",
+    width: 4,
+    height: 3,
+  },
+
+  {
+    src: "https://res.cloudinary.com/dnrlpjsvu/image/upload/f_auto,q_auto/htgtigqrdgekuvi8va1x",
+    width: 4,
+    height: 3,
+  },
+
+  {
+    src: "https://res.cloudinary.com/dnrlpjsvu/image/upload/f_auto,q_auto/WhatsApp_Image_2023-06-18_at_12.10.40_AM_cubpzz",
+    width: 4,
+    height: 3,
+  },
+
+  {
+    src: "https://res.cloudinary.com/dnrlpjsvu/image/upload/v1687169765/arsh_goyal_1_wtvc3h.jpg",
+    width: 4,
+    height: 3,
+  },
+
+  {
+    src: "https://res.cloudinary.com/dnrlpjsvu/image/upload/v1687169765/arsh_goyal_jzbq2n.jpg",
+    width: 4,
+    height: 3,
+  },
+  {
+    src: "https://res.cloudinary.com/dkddubkcn/image/upload/v1697268558/3_x2isq6.jpg",
+    width: 4,
+    height: 3,
+  },
+  {
+    src: "https://res.cloudinary.com/dkddubkcn/image/upload/v1697268603/2_kiwpyp.jpg",
+    width: 4,
+    height: 3,
+  }
 ];

@@ -103,7 +103,7 @@ const Navbar = () => {
                 <li className="navwidth2">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="https://bit.ly/3Dy8msg"
+                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687110551/Placement_Report_2022-23_h1yeoj.pdf"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -113,7 +113,7 @@ const Navbar = () => {
                 <li className="navwidth2">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="http://www.mmmut.ac.in/Pdf/T&P%20Placement%20Brochure%202022-23.pdf"
+                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067609/Placement_Brochure_2023-24_compressed_chflps.pdf"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -146,7 +146,7 @@ const Navbar = () => {
                 <li className="navwidth">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="https://res.cloudinary.com/vaish1101/image/upload/v1658241167/gyan%20sir/T_P_Policy_2022_kf9g0e.pdf"
+                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067668/T_P_Policy_2023-24_dr4t85.pdf"
                     target="_blank"
                     rel="noreferrer"
                   >

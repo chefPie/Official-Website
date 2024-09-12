@@ -106,6 +106,11 @@ const QuickLinks = () => {
                     <div className="hid1">
                       <ul>
                         <li>
+                          <a href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067609/Placement_Brochure_2023-24_compressed_chflps.pdf">
+                            Placement Brochure 2023-2024
+                          </a>
+                        </li>
+                        <li>
                           <a href="http://www.mmmut.ac.in/Pdf/T&P%20Placement%20Brochure%202022-23.pdf">
                             Placement Brochure 2022-2023
                           </a>
@@ -178,7 +183,7 @@ const QuickLinks = () => {
                     <div className="hid1">
                       <ul>
                         <li>
-                          <a href="https://res.cloudinary.com/daxilgrvn/image/upload/v1675362702/T_P%20Site/Placement_Report_2022-23_yh2hzh.pdf">
+                          <a href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687110551/Placement_Report_2022-23_h1yeoj.pdf">
                             Placement Report 2022-2023
                           </a>
                         </li>
@@ -217,7 +222,7 @@ const QuickLinks = () => {
                       whileTap={{ scale: 0.9 }}
                     >
                       <a
-                        href="https://res.cloudinary.com/vaish1101/image/upload/v1658241167/gyan%20sir/T_P_Policy_2022_kf9g0e.pdf"
+                        href="https://mmmutgkp-my.sharepoint.com/:b:/g/personal/tnpmmmut_info_mmmut_ac_in/EQb8PYFvZytIuywgT8FJWw4BzhgjNjNv73Jwyvnz7QKyqg?e=thNTgN"
                         className="link"
                       >
                         Placement Policy
@@ -283,7 +288,7 @@ const QuickLinks = () => {
                     >
                       <a
                         className="link"
-                        href="http://www.mmmut.ac.in/pdf/T&P%20Contacts_List%202022-2023.pdf"
+                        href="https://mmmutgkp-my.sharepoint.com/:b:/g/personal/tnpmmmut_info_mmmut_ac_in/Eaae-B92eZ5PhHl3oyYO-FIBT-4p4I_IgkhRIzESRyH8xA?e=aluDGB"
                       >
                         Contact List
                       </a>
